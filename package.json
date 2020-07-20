@@ -9,6 +9,7 @@
     "next": "^9.3.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "recoil": "^0.0.10",
     "ress": "^2.0.4"
   },
   "scripts": {
@@ -23,12 +24,14 @@
   "devDependencies": {
     "@types/node": "^13.7.0",
     "@types/react": "^16.9.19",
+    "@types/recoil": "^0.0.1",
     "@typescript-eslint/eslint-plugin": "^2.19.0",
     "@typescript-eslint/parser": "^2.19.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^4.0.8",
     "prettier": "^1.19.1",
     "typescript": "^3.7.5"
   }
